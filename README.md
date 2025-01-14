@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**Suvra00995/Suvra00995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository contains a review paper analyzing and discussing the key findings, methodology, and implications of the research paper titled "[Basic of Artificial Neural Network ]" by [Ms.Sonali.B.Maind & Ms.Priyanka Wankar], published in [International Journal on Recent and Innovation Trends in Computing and Communication], [2014].
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Table of Contents
+
+1. Introduction
+
+
+2. Abstract 
+
+
+3. Summary 
+
+
+4. Challenges and Limitations 
+
+
+5. Conclusion 
+
+
